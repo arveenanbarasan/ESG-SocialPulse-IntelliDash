@@ -4,7 +4,7 @@
 *Notice: The core algorithms, predictive models, and full source code for this project are currently closed-source and under patent review. This repository serves as an architectural overview and technical showcase of the platform's capabilities.*
 
 ## Overview
-The ESG SocialPulse IntelliDash is an enterprise-grade digital analytics platform designed to solve the data fragmentation problem within the "Social" pillar of Environmental, Social, and Governance (ESG) frameworks. Initially engineered for the complex supply chains of the construction industry, the platform transforms subjective social variables—such as worker welfare, grievance resolution, and community engagement—into quantifiable, audit-ready data structures.
+The ESG SocialPulse IntelliDash is an enterprise-grade digital analytics platform designed to solve the data fragmentation problem within the "Social" pillar of Environmental, Social, and Governance (ESG) frameworks. Initially engineered for the complex supply chains of the construction industry, the platform transforms subjective social variables, such as worker welfare, grievance resolution, and community engagement, into quantifiable, audit-ready data structures.
 
 ## Core System Architecture & Features
 
